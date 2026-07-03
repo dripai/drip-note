@@ -1,0 +1,23 @@
+[
+  {
+    "name": "drip-calendar",
+    "version": "1.0.0",
+    "description": "A calendar view for your notes",
+    "author": "DripNote Team",
+    "downloadUrl": "https://gitee.com/ggtool/drip-note-plugins/raw/master/drip-calendar/dist/drip-calendar.umd.js"
+  },
+  {
+    "name": "drip-kanban",
+    "version": "0.1.0",
+    "description": "Kanban board for task management",
+    "author": "Community",
+    "downloadUrl": "https://gitee.com/ggtool/drip-note-plugins/raw/master/drip-kanban/dist/drip-kanban.umd.js"
+  },
+  {
+    "name": "drip-excalidraw",
+    "version": "2.0.0",
+    "description": "Integration with Excalidraw for whiteboarding",
+    "author": "DripNote Team",
+    "downloadUrl": "https://gitee.com/ggtool/drip-note-plugins/raw/master/drip-excalidraw/dist/drip-excalidraw.umd.js"
+  }
+]
